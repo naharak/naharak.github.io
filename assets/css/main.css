@@ -5068,6 +5068,7 @@ a img {
 
     .images-right img {
         float: right
+        margin-top: 15%
     }
 
     .images-left {

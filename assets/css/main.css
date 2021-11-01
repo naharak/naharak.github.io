@@ -5015,8 +5015,8 @@ a img {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    width: 90%;
-    max-width: 960px;
+    width: 100%;
+    max-width: 1040px;
     margin: 0 auto
 }
 
@@ -5068,7 +5068,6 @@ a img {
 
     .images-right img {
         float: right
-        margin-top: 15%
     }
 
     .images-left {
